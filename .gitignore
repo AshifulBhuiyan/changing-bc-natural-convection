@@ -1,0 +1,97 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.eggs/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+sdist/
+
+# Installer logs
+*.log
+
+# Unit test / coverage reports
+.coverage
+.tox/
+
+# Virtual environment
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# LaTeX
+
+# Compiled output
+*.aux
+*.bbl
+*.blg
+*.brf
+*.cb
+*.dvi
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.pdf
+*.snm
+*.synctex.gz
+*.toc
+*.xdv
+
+# Editor specific files
+*.bak
+*.gz
+*.fdb_latexmk
+*.fls
+*.synctex.gz(busy)
+
+# Bibliography
+*.bcf
+*.run.xml
+*.upd
+
+# Draft files
+*.dpth
+*.md5
+
+# Other
+*.backup
+*.latexmk
+*.spl
+
+# Figures
+*.eps
+*.ps
+
+# Temporary files
+*.tmp
+
+# Cache files
+*.cache
+
+# External programs
+*.pyg
+
+# Custom
+*.user
