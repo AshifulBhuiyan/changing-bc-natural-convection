@@ -12,7 +12,7 @@ Research workspace for exploring changing boundary conditions in natural convect
 - `website/`: project site assets.
 
 ## Quick start
-Open the notebook with Jupyter:
+Open the notebook with Jupyter (or however you like to play with `.ipynb` files:
 ```bash
 jupyter lab
 ```
