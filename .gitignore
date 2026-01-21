@@ -25,6 +25,7 @@ sdist/
 # Virtual environment
 venv/
 env/
+.venv/
 
 # Editors
 .vscode/
